@@ -38,9 +38,10 @@ I am a multidisciplinary creator bridging the gap between **human-centric design
 ---
 
 ### 📬 Connect with Me
-- **Portfolio:** [Link to your portfolio]
-- **LinkedIn:** [Link to your LinkedIn]
+- **Portfolio:** https://v0-celine-portfolio.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/celineghl/
 - **Email:** celinegoh1310@gmail.com
+- **Instagram:** https://www.instagram.com/celstudiosx?igsh=MWMzaW10dWdvcGZyYg%3D%3D&utm_source=qr
 
 ---
 
